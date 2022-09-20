@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/RJimenezTech/fast-vocab-list/issues"
   },
-  "homepage": "https://github.com/RJimenezTech/fast-vocab-list#readme"
+  "homepage": "https://github.com/RJimenezTech/fast-vocab-list#readme", 
+  "type": "module"
 }
