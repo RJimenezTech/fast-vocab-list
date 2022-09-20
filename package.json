@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "pdfkit": "^0.13.0",
     "translate": "^1.4.1"
   },
   "name": "fast-vocab-list",
   "description": "An application that outputs a list of vocabulary words for languages learners",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
@@ -20,6 +20,6 @@
   "bugs": {
     "url": "https://github.com/RJimenezTech/fast-vocab-list/issues"
   },
-  "homepage": "https://github.com/RJimenezTech/fast-vocab-list#readme", 
+  "homepage": "https://github.com/RJimenezTech/fast-vocab-list#readme",
   "type": "module"
 }
